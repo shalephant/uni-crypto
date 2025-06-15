@@ -1,0 +1,3 @@
+Caesar cypher is insecure because it is limited to the alphabet for the encryption making it easy to brute force and get the plaintext. Even without it, with the statistical analysis, based on the letter frequency, if the cyphertext is large, it can also be decrypted. Also, it is not complex, single letter change only affects changing the corresponding cypher letter.
+
+I'd argue there is no need for using similar encryption if the purpose is security.
